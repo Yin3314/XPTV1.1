@@ -8,9 +8,9 @@ const appConfig = {
 
 	tabs: [
 		{
-			name: '电影',
+			name: '动漫',
 			ext: {
-				id: '1',
+				id: '3',
 			},
 		},
 		{
@@ -26,9 +26,9 @@ const appConfig = {
 			},
 		},
 		{
-			name: '动漫',
+			name: '电影',
 			ext: {
-				id: '3',
+				id: '1',
 			},
 		},
 		{
