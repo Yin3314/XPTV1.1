@@ -1,6 +1,16 @@
 {
   "sites": [
     {
+      "name": "360|点播",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod/"
+    },
+    {
+      "name": "旺旺|点播",
+      "type": 1,
+      "api": "https://api.wwzy.tv/api.php/provide/vod/"
+    },
+    {
       "name": "玩偶哥哥(备用) | PAN",
       "type": 3,
       "api": "csp_wogg",
