@@ -10,7 +10,7 @@ const appConfig = {
 		{
 			name: '动漫',
 			ext: {
-				id: '1',
+				id: '3',
 			},
 		},
 		{
@@ -22,19 +22,19 @@ const appConfig = {
 		{
 			name: '臻彩视界',
 			ext: {
-				id: '3',
+				id: '44',
 			},
 		},
 		{
 			name: '电影',
 			ext: {
-				id: '4',
+				id: '1',
 			},
 		},
 		{
 			name: '综艺',
 			ext: {
-				id: '5',
+				id: '4',
 			},
 		},
 		{
@@ -46,7 +46,7 @@ const appConfig = {
 		{
 			name: '音乐',
 			ext: {
-				id: '7',
+				id: '5',
 			},
 		},
 	],
