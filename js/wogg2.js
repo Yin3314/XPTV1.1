@@ -8,9 +8,9 @@ const appConfig = {
 
 	tabs: [
 		{
-			name: '电影',
+			name: '动漫',
 			ext: {
-				id: '3',
+				id: '1',
 			},
 		},
 		{
@@ -22,19 +22,19 @@ const appConfig = {
 		{
 			name: '臻彩视界',
 			ext: {
-				id: '44',
+				id: '3',
 			},
 		},
 		{
-			name: '动漫',
+			name: '电影',
 			ext: {
-				id: '1',
+				id: '4',
 			},
 		},
 		{
 			name: '综艺',
 			ext: {
-				id: '4',
+				id: '5',
 			},
 		},
 		{
@@ -46,7 +46,7 @@ const appConfig = {
 		{
 			name: '音乐',
 			ext: {
-				id: '5',
+				id: '7',
 			},
 		},
 	],
